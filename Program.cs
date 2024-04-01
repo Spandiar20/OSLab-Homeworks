@@ -14,6 +14,23 @@ switch(userIn) {
         userIn = Console.ReadLine();
         Process.Start(userIn);
         break;
+
     case "2":
+        // Process[] processesName = Process.GetProcessesByName()
+        Process[] processes = Process.GetProcesses();
+        Console.WriteLine("Here are running programs:");
+        foreach (Process process in processes){
+            Console.WriteLine($"{process.Id}   {process.ProcessName}");
+        }
+        Console.WriteLine("Write down the ID of the program do you want to kill:");
+        int userIndex = int.Parse(Console.ReadLine());
+        
+        foreach(Process process in processes) {
+            if (userIndex == process.Id) {
+                process.Kill();
+                Console.WriteLine($"Process with the Id of {userIndex} has been closed!");
+            }
+        }
+        break;
 
 }
