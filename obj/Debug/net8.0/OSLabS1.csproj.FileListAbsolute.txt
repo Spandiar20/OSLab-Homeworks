@@ -26,3 +26,4 @@ S:\C# test project\OSLabS1\obj\Debug\net8.0\refint\OSLabS1.dll
 S:\C# test project\OSLabS1\obj\Debug\net8.0\OSLabS1.pdb
 S:\C# test project\OSLabS1\obj\Debug\net8.0\OSLabS1.genruntimeconfig.cache
 S:\C# test project\OSLabS1\obj\Debug\net8.0\ref\OSLabS1.dll
+S:\C# test project\OSLabS1\obj\Debug\net8.0\OSLabS1.sourcelink.json
