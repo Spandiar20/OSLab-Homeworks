@@ -1,0 +1,28 @@
+C:\Users\hp\Desktop\Test\OSLabS1\bin\Debug\net8.0\OSLabS1.exe
+C:\Users\hp\Desktop\Test\OSLabS1\bin\Debug\net8.0\OSLabS1.deps.json
+C:\Users\hp\Desktop\Test\OSLabS1\bin\Debug\net8.0\OSLabS1.runtimeconfig.json
+C:\Users\hp\Desktop\Test\OSLabS1\bin\Debug\net8.0\OSLabS1.dll
+C:\Users\hp\Desktop\Test\OSLabS1\bin\Debug\net8.0\OSLabS1.pdb
+C:\Users\hp\Desktop\Test\OSLabS1\obj\Debug\net8.0\OSLabS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Test\OSLabS1\obj\Debug\net8.0\OSLabS1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Test\OSLabS1\obj\Debug\net8.0\OSLabS1.AssemblyInfo.cs
+C:\Users\hp\Desktop\Test\OSLabS1\obj\Debug\net8.0\OSLabS1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Test\OSLabS1\obj\Debug\net8.0\OSLabS1.dll
+C:\Users\hp\Desktop\Test\OSLabS1\obj\Debug\net8.0\refint\OSLabS1.dll
+C:\Users\hp\Desktop\Test\OSLabS1\obj\Debug\net8.0\OSLabS1.pdb
+C:\Users\hp\Desktop\Test\OSLabS1\obj\Debug\net8.0\OSLabS1.genruntimeconfig.cache
+C:\Users\hp\Desktop\Test\OSLabS1\obj\Debug\net8.0\ref\OSLabS1.dll
+S:\C# test project\OSLabS1\bin\Debug\net8.0\OSLabS1.exe
+S:\C# test project\OSLabS1\bin\Debug\net8.0\OSLabS1.deps.json
+S:\C# test project\OSLabS1\bin\Debug\net8.0\OSLabS1.runtimeconfig.json
+S:\C# test project\OSLabS1\bin\Debug\net8.0\OSLabS1.dll
+S:\C# test project\OSLabS1\bin\Debug\net8.0\OSLabS1.pdb
+S:\C# test project\OSLabS1\obj\Debug\net8.0\OSLabS1.GeneratedMSBuildEditorConfig.editorconfig
+S:\C# test project\OSLabS1\obj\Debug\net8.0\OSLabS1.AssemblyInfoInputs.cache
+S:\C# test project\OSLabS1\obj\Debug\net8.0\OSLabS1.AssemblyInfo.cs
+S:\C# test project\OSLabS1\obj\Debug\net8.0\OSLabS1.csproj.CoreCompileInputs.cache
+S:\C# test project\OSLabS1\obj\Debug\net8.0\OSLabS1.dll
+S:\C# test project\OSLabS1\obj\Debug\net8.0\refint\OSLabS1.dll
+S:\C# test project\OSLabS1\obj\Debug\net8.0\OSLabS1.pdb
+S:\C# test project\OSLabS1\obj\Debug\net8.0\OSLabS1.genruntimeconfig.cache
+S:\C# test project\OSLabS1\obj\Debug\net8.0\ref\OSLabS1.dll
