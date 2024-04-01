@@ -9,14 +9,13 @@ string userIn = Console.ReadLine();
 
 switch(userIn) {
     
-    case "1":
+    case "2":
         Console.WriteLine("A'ight, type the name of the Program do you want me to execute: ");
         userIn = Console.ReadLine();
         Process.Start(userIn);
         break;
 
-    case "2":
-        // Process[] processesName = Process.GetProcessesByName()
+    case "3":
         Process[] processes = Process.GetProcesses();
         Console.WriteLine("Here are running programs:");
         foreach (Process process in processes){
@@ -30,6 +29,14 @@ switch(userIn) {
                 process.Kill();
                 Console.WriteLine($"Process with the Id of {userIndex} has been closed!");
             }
+        }
+        break;
+
+    case "1":
+        Process[] procs = Process.GetProcesses();
+        Console.WriteLine("Here is a list of opened and executing processes in your system:");
+        foreach(Process process in procs) {
+            Console.WriteLine($"{process.Id}   {process.ProcessName}");
         }
         break;
 
