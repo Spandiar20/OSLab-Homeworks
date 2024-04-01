@@ -7,3 +7,13 @@ Console.WriteLine("Hello dude, please write what you want to do: \n \n1. To prin
 
 string userIn = Console.ReadLine();
 
+switch(userIn) {
+    
+    case "1":
+        Console.WriteLine("A'ight, type the name of the Program do you want me to execute: ");
+        userIn = Console.ReadLine();
+        Process.Start(userIn);
+        break;
+    case "2":
+
+}
