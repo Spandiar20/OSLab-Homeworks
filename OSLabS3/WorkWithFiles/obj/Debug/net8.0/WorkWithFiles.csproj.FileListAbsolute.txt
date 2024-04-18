@@ -1,0 +1,15 @@
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\bin\Debug\net8.0\WorkWithFiles.exe
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\bin\Debug\net8.0\WorkWithFiles.deps.json
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\bin\Debug\net8.0\WorkWithFiles.runtimeconfig.json
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\bin\Debug\net8.0\WorkWithFiles.dll
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\bin\Debug\net8.0\WorkWithFiles.pdb
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\obj\Debug\net8.0\WorkWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\obj\Debug\net8.0\WorkWithFiles.AssemblyInfoInputs.cache
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\obj\Debug\net8.0\WorkWithFiles.AssemblyInfo.cs
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\obj\Debug\net8.0\WorkWithFiles.csproj.CoreCompileInputs.cache
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\obj\Debug\net8.0\WorkWithFiles.sourcelink.json
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\obj\Debug\net8.0\WorkWithFiles.dll
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\obj\Debug\net8.0\refint\WorkWithFiles.dll
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\obj\Debug\net8.0\WorkWithFiles.pdb
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\obj\Debug\net8.0\WorkWithFiles.genruntimeconfig.cache
+S:\C# test project\OSLabS1\OSLabS3\WorkWithFiles\obj\Debug\net8.0\ref\WorkWithFiles.dll
