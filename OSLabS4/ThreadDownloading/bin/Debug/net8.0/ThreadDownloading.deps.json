@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ThreadDownloading/1.0.0": {
+        "runtime": {
+          "ThreadDownloading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadDownloading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
