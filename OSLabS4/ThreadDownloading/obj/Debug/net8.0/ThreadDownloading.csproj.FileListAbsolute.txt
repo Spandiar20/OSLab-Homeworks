@@ -1,0 +1,15 @@
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\bin\Debug\net8.0\ThreadDownloading.exe
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\bin\Debug\net8.0\ThreadDownloading.deps.json
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\bin\Debug\net8.0\ThreadDownloading.runtimeconfig.json
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\bin\Debug\net8.0\ThreadDownloading.dll
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\bin\Debug\net8.0\ThreadDownloading.pdb
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\obj\Debug\net8.0\ThreadDownloading.GeneratedMSBuildEditorConfig.editorconfig
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\obj\Debug\net8.0\ThreadDownloading.AssemblyInfoInputs.cache
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\obj\Debug\net8.0\ThreadDownloading.AssemblyInfo.cs
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\obj\Debug\net8.0\ThreadDownloading.csproj.CoreCompileInputs.cache
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\obj\Debug\net8.0\ThreadDownloading.sourcelink.json
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\obj\Debug\net8.0\ThreadDownloading.dll
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\obj\Debug\net8.0\refint\ThreadDownloading.dll
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\obj\Debug\net8.0\ThreadDownloading.pdb
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\obj\Debug\net8.0\ThreadDownloading.genruntimeconfig.cache
+S:\C# test project\OSLabS1\OSLabS4\ThreadDownloading\obj\Debug\net8.0\ref\ThreadDownloading.dll
